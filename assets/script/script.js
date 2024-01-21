@@ -4,18 +4,19 @@ $(document).ready(function () {
 
   // Function to update time block colors based on current time
   function updateColors() {
+    var currentHour = dayjs().hour();
+
     $(".time-block").each(function () {
-      var currentHour = dayjs().hour();
       var blockHour = parseInt($(this).data("time"));
 
-      $(this).find("textarea").removeClass("past present future");
+      $(this).removeClass("past present future");
 
       if (blockHour < currentHour) {
-        $(this).find("textarea").addClass("past");
+        $(this).addClass("past");
       } else if (blockHour === currentHour) {
-        $(this).find("textarea").addClass("present");
+        $(this).addClass("present");
       } else {
-        $(this).find("textarea").addClass("future");
+        $(this).addClass("future");
       }
     });
   }
