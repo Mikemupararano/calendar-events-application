@@ -3,9 +3,9 @@
 
 ## Description 
 I designed a calendar events scheduler for the hours spanning from 9AM to 5PM. The application allows users to enter their task for the day in a given time slot. 
-The good news is that if a time slot is in the past, it is colour-coded gray. A current time slot is shaded red and any future time slots appear in a green background colour. The application has a visual appeal and guides them to give first priority to the current and future time slot tasks. 
+The good news is that if a time slot is in the past, it is colour-coded gray. A current time slot is shaded in a red background and any future time slots appear in a green background colour. The application has a visual appeal and guides them to give first priority to the current and future time slot tasks. 
 
-The web application has been designed using HTML, CSS, JavaScript, Bootstrap, JQuery and Goodgle Fonts. 
+The web application has been designed using HTML, CSS, JavaScript, Bootstrap, JQuery and Google Fonts. 
 
 
 T
