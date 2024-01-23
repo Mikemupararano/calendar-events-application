@@ -25,12 +25,21 @@ N/A
 The web portfolio does not require any installation and will run on most internet browsers. The web application is deployed at this link here and feel free to click and experience its magical works: https://mikemupararano.github.io/Bootstrap-Portfolio/.
 
 ## Usage 
-To have an idea of what is in the portfolio including screenshots, please click on this link: https://github.com/Mikemupararano/Bootstrap-Portfolio/issues/1.
+To have an idea of what is in this web application, please click on this link: https://github.com/Mikemupararano/calendar-events-application/settings/pages
+ https://mikemupararano.github.io/calendar-events-application/
 
+![A screenshot of a web application:](./assets/images/screenshot-12pm.png)
+![A screenshot of a prompt:](./assets/images/app3.png)
+![A screenshot of a prompt:](./assets/images/app4.png)
 ## Credits
 I used the following web-links for research and support:
 (a) video on a similar task: https://www.google.com/search?q=work+scheduler+(javascript%2C+day.js)&rlz=1C1CHBF_enGB1042GB1042&oq=work+s&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIKCAQQABixAxiABDIKCAUQABixAxiABDIHCAYQLhiABDIKCAcQLhixAxiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:3ae864d9,vid:sm6py49QNto,st:0
-
+(b) https://github.com/ThomasCalle/Online-Workday-Planner/blob/main/assets/script.js
+(c) https://www.youtube.com/watch?v=sm6py49QNto
+(d) https://github.com/EdenKhaos/05-work-day-scheduler
+(e) https://github.com/EdenKhaos/05-work-day-scheduler/blob/master/assets/screenshot_scheduler.JPG
+(f) https://www.youtube.com/watch?v=6EVgmpm4z5U
+(g) https://mirzaleka.medium.com/the-complete-guide-to-day-js-fb835a5d945a
 
 
 ## License
@@ -45,7 +54,7 @@ N/A
 N/A
 ## Contributing
 
-Any other contributors are welcome to contact me and add to my code or suggest improvements.
+Any other contributors are welcome to contact me and add to my code or suggest improvements. Click on this link to contribute on improvements: https://github.com/Mikemupararano/calendar-events-application/settings/pages.
 
 ## Tests
 N/A
