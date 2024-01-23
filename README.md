@@ -29,8 +29,8 @@ To have an idea of what is in this web application, please click on this link: h
  https://mikemupararano.github.io/calendar-events-application/
 
 ![A screenshot of a web application:](./assets/images/screenshot-12pm.png)
-![A screenshot of a prompt:](./assets/images/app3.png)
-![A screenshot of a prompt:](./assets/images/app4.png)
+![Second screenshot:](./assets/images/app3.png)
+![Third screenshot:](./assets/images/app4.png)
 ## Credits
 I used the following web-links for research and support:
 (a) video on a similar task: https://www.google.com/search?q=work+scheduler+(javascript%2C+day.js)&rlz=1C1CHBF_enGB1042GB1042&oq=work+s&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIKCAQQABixAxiABDIKCAUQABixAxiABDIHCAYQLhiABDIKCAcQLhixAxiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:3ae864d9,vid:sm6py49QNto,st:0
