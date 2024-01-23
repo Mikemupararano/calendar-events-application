@@ -1,6 +1,5 @@
 # Calendar-events-applications
 
-
 ## Description 
 I designed a calendar events scheduler for the hours spanning from 9AM to 5PM. The application allows users to enter their task for the day in a given time slot. 
 The web application uses Day.js to handle dates and time. The good news is that if a time slot is in the past, it is colour-coded gray. A current time slot is shaded in a red background and any future time slots appear in a green background colour.
@@ -10,19 +9,14 @@ The user can write tasks in future time slots and the data is saved to a local s
 When the page is refreshed, the saved events persist
  The application has a visual appeal and guides them to give first priority to the current and future time slot tasks. 
 
-
-
 The web application has been designed using HTML, CSS, JavaScript, Bootstrap, JQuery and Google Fonts. 
-
-
-T
 
 ## Table of Contents (Optional)
 N/A
 
 ## Installation
 
-The web portfolio does not require any installation and will run on most internet browsers. The web application is deployed at this link here and feel free to click and experience its magical works: https://mikemupararano.github.io/Bootstrap-Portfolio/.
+The web portfolio does not require any installation and will run on most internet browsers. The web application is deployed at this link here and feel free to click and experience its magical works: https://github.com/Mikemupararano/calendar-events-application.
 
 ## Usage 
 To have an idea of what is in this web application, please click on this link: https://github.com/Mikemupararano/calendar-events-application/settings/pages
