@@ -27,7 +27,7 @@ The web portfolio does not require any installation and will run on most interne
 ## Usage 
 To have an idea of what is in this web application, please click on this link: https://github.com/Mikemupararano/calendar-events-application/settings/pages
  https://mikemupararano.github.io/calendar-events-application/
-
+![A screenshot of a web application:](./assets/images/full-image.png)
 ![A screenshot of a web application:](./assets/images/screenshot-12pm.png)
 ![Second screenshot:](./assets/images/app3.png)
 ![Third screenshot:](./assets/images/app4.png)
