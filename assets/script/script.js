@@ -57,3 +57,4 @@
     
     setInterval(updateTime, 1000);
   });
+//Deleted code from here.
